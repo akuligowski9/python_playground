@@ -1,7 +1,7 @@
 import time
 
-first_name = input("What's your first name?")
-last_name = input("What's your first name?")
+first_name = input("What's your first name?   ")
+last_name = input("What's your first name?   ")
 decoy_name = "Lance"
 human_contempt = "This computer may never know"
 computer_thinking = "...calculating...calculating..."
